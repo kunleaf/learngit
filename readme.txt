@@ -7,3 +7,5 @@ insert something...
 
 
 learn command git status / gei diff 
+
+添加了中文
