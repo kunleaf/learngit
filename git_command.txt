@@ -20,5 +20,15 @@ git checkout -- (file name)
 
 git reset head (file name)
 
+git remote add (远程库名) (地址，比如：git@github.com:kunleaf/learngit.git)
+
+git push -u (远程库名) main 
+
+git remote rm (远程库名)
+
+git remote -v
+
+
+
 
  
