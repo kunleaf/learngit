@@ -28,7 +28,7 @@ git remote rm (远程库名)
 
 git remote -v
 
-
+git clone (地址，比如：git@github.com:kunleaf/learngit.git)
 
 
  
